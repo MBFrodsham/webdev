@@ -1,0 +1,71 @@
+a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+    color: black;
+}
+
+.common{
+    background-color:  rgb(182, 177, 177);
+    border: solid 2px black;
+}
+
+.header{
+    top: 5px;
+    left: 5px ;
+    right: 5px;
+    height: 200px;
+    background-color: rgba(128, 45, 91, 0.747);
+}
+
+.main{
+    top: 110px;
+    left: 5px;
+    right: 5px;
+    bottom: 60px;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.color{
+    color: black;
+    font-weight: 500;
+}
+
+
+.link{
+    font-style: oblique;
+    text-decoration: none;
+    color: Black
+}
+
+.body{
+    margin: 0 auto;
+    width: 700px;
+    padding: 10px;
+}
+
+.paragraph{
+    text-decoration: underline;
+    font-size: large;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.box{
+    border-width: 1px;
+    border-style: solid;
+}

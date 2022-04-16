@@ -1,0 +1,54 @@
+.bold{
+    font-weight: bold;
+}
+
+.it {
+    font-style: italic;
+}
+
+.und {
+    text-decoration: underline;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+}
+
+.link{
+    font-style: italic;
+    text-decoration: none;
+    color: rgb(7, 126, 158)
+}
+
+.anchor{
+    font-style: italic;
+    border-style: solid;
+    font-weight: bold;
+}
+
+.resume{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.contact{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.sections{
+    font-weight: bold;
+    
+}
+
+.title{
+    font-weight: bold;
+    font-size: xx-large;
+}
